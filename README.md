@@ -1,2 +1,2 @@
 # distancni-cteni
-Data and scripts for a book chapter (in Czech). 
+Supplementary material for a book chapter in Czech. 
