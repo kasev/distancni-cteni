@@ -1,0 +1,337 @@
+raw,category,term,var1
+01                    HarmVirtue,,01                    HarmVirtue,False
+02                    HarmVice,,02                    HarmVice,False
+03                    FairnessVirtue,,03                    FairnessVirtue,False
+04                    FairnessVice,,04                    FairnessVice,False
+05                    IngroupVirtue,,05                    IngroupVirtue,False
+06                    IngroupVice,,06                    IngroupVice,False
+07                    AuthorityVirtue,,07                    AuthorityVirtue,False
+08                    AuthorityVice,,08                    AuthorityVice,False
+09                    PurityVirtue,,09                    PurityVirtue,False
+10                    PurityVice,,10                    PurityVice,False
+11                    MoralityGeneral,,11                    MoralityGeneral,False
+%		,,%,False
+safe*			01,1,safe*,False
+peace*			01,1,peace*,False
+compassion*		01	,1,compassion*,False
+empath*			01,1,empath*,False
+sympath*		01	,1,sympath*,False
+care			01,1,care,False
+caring			01,1,caring,False
+protect*		01	,1,protect*,False
+shield			01,1,shield,False
+shelter			01,1,shelter,False
+amity			01,1,amity,False
+secur*			01     ,1,secur*,False
+benefit*        	01           ,1,benefit*        ,False
+defen*			01 ,1,defen*,False
+guard*			01,1,guard*,False
+preserve		01 07 09         ,01 07 09,preserve,False
+harm*			02,2,harm*,False
+suffer*			02,2,suffer*,False
+war			02        ,2,war,False
+wars			02        ,2,wars,False
+warl*			02        ,2,warl*,False
+warring			02        ,2,warring,False
+fight*			02,2,fight*,False
+violen*			02,2,violen*,False
+hurt*			02,2,hurt*,False
+kill			02,2,kill,False
+kills			02,2,kills,False
+killer*			02,2,killer*,False
+killed			02,2,killed,False
+killing			02,2,killing,False
+endanger*		02	,2,endanger*,False
+cruel*			02,2,cruel*,False
+brutal*			02,2,brutal*,False
+abuse*			02,2,abuse*,False
+damag*			02,2,damag*,False
+ruin*			02 10,02 10,ruin*,False
+ravage			02,2,ravage,False
+detriment*		02            ,2,detriment*,False
+crush*			02,2,crush*,False
+attack*			02,2,attack*,False
+annihilate*		02,2,annihilate*,False
+destroy			02,2,destroy,False
+stomp			02,2,stomp,False
+abandon*		02 06,02 06,abandon*,False
+spurn			02,2,spurn,False
+impair			02             ,2,impair,False
+exploit			02 10            ,02 10,exploit,False
+exploits		02 10,02 10,exploits,False
+exploited		02 10,02 10,exploited,False
+exploiting		02 10,02 10,exploiting,False
+wound*			02,2,wound*,False
+fair			03,3,fair,False
+fairly			03,3,fairly,False
+fairness		03,3,fairness,False
+fair-*			03,3,fair-*,False
+fairmind*		03,3,fairmind*,False
+fairplay		03,3,fairplay,False
+equal*			03,3,equal*,False
+justice			03,3,justice,False
+justness		03,3,justness,False
+justifi*		03,3,justifi*,False
+reciproc*		03	,3,reciproc*,False
+impartial*		03	,3,impartial*,False
+egalitar*		03	,3,egalitar*,False
+rights			03         ,3,rights,False
+equity			03,3,equity,False
+evenness		03,3,evenness,False
+equivalent		03	,3,equivalent,False
+unbias*			03,3,unbias*,False
+tolerant		03,3,tolerant,False
+equable			03,3,equable,False
+balance*		03           ,3,balance*,False
+homologous		03,3,homologous,False
+unprejudice*		03,3,unprejudice*,False
+reasonable		03,3,reasonable,False
+constant		03,3,constant,False
+honest*			03 11,03 11,honest*,False
+unfair*			04,4,unfair*,False
+unequal*		04	,4,unequal*,False
+bias*			04,4,bias*,False
+unjust*			04,4,unjust*,False
+injust*			04,4,injust*,False
+bigot*			04,4,bigot*,False
+discriminat*		04,4,discriminat*,False
+disproportion*		04,4,disproportion*,False
+inequitable		04,4,inequitable,False
+prejud*			04,4,prejud*,False
+dishonest		04,4,dishonest,False
+unscrupulous		04,4,unscrupulous,False
+dissociate		04,4,dissociate,False
+preference		04,4,preference,False
+favoritism		04,4,favoritism,False
+segregat*		04 05,04 05,segregat*,False
+exclusion		04,4,exclusion,False
+exclud*			04         ,4,exclud*,False
+together		05	,5,together,False
+nation*			05,5,nation*,False
+homeland*		05	,5,homeland*,False
+family			05,5,family,False
+families		05,5,families,False
+familial		05,5,familial,False
+group			05,5,group,False
+loyal*			05 07,05 07,loyal*,False
+patriot*		05	,5,patriot*,False
+communal		05,5,communal,False
+commune*		05,5,commune*,False
+communit*		05,5,communit*,False
+communis*		05,5,communis*,False
+comrad*			05,5,comrad*,False
+cadre			05,5,cadre,False
+collectiv*		05,5,collectiv*,False
+joint			05,5,joint,False
+unison			05,5,unison,False
+unite*			05,5,unite*,False
+fellow*			05,5,fellow*,False
+guild			05,5,guild,False
+solidarity		05,5,solidarity,False
+devot*			05,5,devot*,False
+member			05,5,member,False
+cliqu*			05,5,cliqu*,False
+cohort			05,5,cohort,False
+ally			05,5,ally,False
+insider			05,5,insider,False
+foreign*		06	,6,foreign*,False
+enem*			06,6,enem*,False
+betray*			06 08,06 08,betray*,False
+treason*		06 08	,06 08,treason*,False
+traitor*		06 08	,06 08,traitor*,False
+treacher*		06 08	,06 08,treacher*,False
+disloyal*		06 08	,06 08,disloyal*,False
+individual*		06	,6,individual*,False
+apostasy		06 08 10,06 08 10,apostasy,False
+apostate		06 08 10,06 08 10,apostate,False
+deserted		06 08,06 08,deserted,False
+deserter*		06 08,06 08,deserter*,False
+deserting		06 08,06 08,deserting,False
+deceiv*			06,6,deceiv*,False
+jilt*			06,6,jilt*,False
+imposter		06,6,imposter,False
+miscreant		06,6,miscreant,False
+spy			06,6,spy,False
+sequester		06,6,sequester,False
+renegade		06,6,renegade,False
+terroris*		06,6,terroris*,False
+immigra*		06		,6,immigra*,False
+obey*			07,7,obey*,False
+obedien*		07,7,obedien*,False
+duty			07,7,duty,False
+law			07,7,law,False
+lawful*			07 11,07 11,lawful*,False
+legal*			07 11,07 11,legal*,False
+duti*			07,7,duti*,False
+honor*			07,7,honor*,False
+respect			07	,7,respect,False
+respectful*		07,7,respectful*,False
+respected		07,7,respected,False
+respects		07,7,respects,False
+order*			07,7,order*,False
+father*			07,7,father*,False
+mother			07,7,mother,False
+motherl*		07,7,motherl*,False
+mothering		07,7,mothering,False
+mothers			07,7,mothers,False
+tradition*		07	,7,tradition*,False
+hierarch*		07	,7,hierarch*,False
+authorit*		07	,7,authorit*,False
+permit			07,7,permit,False
+permission		07	,7,permission,False
+status*			07,7,status*,False
+rank*			07,7,rank*,False
+leader*			07,7,leader*,False
+class			07,7,class,False
+bourgeoisie		07,7,bourgeoisie,False
+caste*			07,7,caste*,False
+position		07,7,position,False
+complian*		07,7,complian*,False
+command			07,7,command,False
+supremacy		07,7,supremacy,False
+control			07,7,control,False
+submi*			07,7,submi*,False
+allegian*		07,7,allegian*,False
+serve			07,7,serve,False
+abide			07,7,abide,False
+defere*			07,7,defere*,False
+defer			07,7,defer,False
+revere*			07,7,revere*,False
+venerat*		07,7,venerat*,False
+comply			07,7,comply,False
+defian*			08,8,defian*,False
+rebel*			08,8,rebel*,False
+dissent*		08	,8,dissent*,False
+subver*			08,8,subver*,False
+disrespect*		08	,8,disrespect*,False
+disobe*			08,8,disobe*,False
+sediti*			08,8,sediti*,False
+agitat*			08,8,agitat*,False
+insubordinat*		08,8,insubordinat*,False
+illegal*		08,8,illegal*,False
+lawless*		08,8,lawless*,False
+insurgent		08,8,insurgent,False
+mutinous		08,8,mutinous,False
+defy*			08,8,defy*,False
+dissident		08,8,dissident,False
+unfaithful		08,8,unfaithful,False
+alienate		08,8,alienate,False
+defector		08,8,defector,False
+heretic*		08 10,08 10,heretic*,False
+nonconformist		08,8,nonconformist,False
+oppose			08,8,oppose,False
+protest			08,8,protest,False
+refuse			08,8,refuse,False
+denounce		08,8,denounce,False
+remonstrate		08,8,remonstrate,False
+riot*			08,8,riot*,False
+obstruct		08,8,obstruct,False
+piety			09 11,09 11,piety,False
+pious			09 11,09 11,pious,False
+purity			09,9,purity,False
+pure*			09,9,pure*,False
+clean*			09,9,clean*,False
+steril*			09,9,steril*,False
+sacred*			09,9,sacred*,False
+chast*			09,9,chast*,False
+holy			09,9,holy,False
+holiness		09	,9,holiness,False
+saint*			09,9,saint*,False
+wholesome*		09 11	,09 11,wholesome*,False
+celiba*			09,9,celiba*,False
+abstention		09,9,abstention,False
+virgin			09,9,virgin,False
+virgins			09,9,virgins,False
+virginity		09,9,virginity,False
+virginal		09,9,virginal,False
+austerity		09,9,austerity,False
+integrity		09 11,09 11,integrity,False
+modesty			09,9,modesty,False
+abstinen*		09,9,abstinen*,False
+abstemiousness		09,9,abstemiousness,False
+upright			09 11,09 11,upright,False
+limpid			09,9,limpid,False
+unadulterated		09,9,unadulterated,False
+maiden			09,9,maiden,False
+virtuous		09,9,virtuous,False
+refined			09,9,refined,False
+decen*			09 11,09 11,decen*,False
+immaculate		09,9,immaculate,False
+innocent		09,9,innocent,False
+pristine		09,9,pristine,False
+church*			09,9,church*,False
+disgust*		10	,10,disgust*,False
+deprav*			10,10,deprav*,False
+disease*		10	,10,disease*,False
+unclean*		10	,10,unclean*,False
+contagio*		10,10,contagio*,False
+indecen*		10 11	,10 11,indecen*,False
+sin			10,10,sin,False
+sinful*			10 ,10,sinful*,False
+sinner*			10,10,sinner*,False
+sins			10,10,sins,False
+sinned			10,10,sinned,False
+sinning			10,10,sinning,False
+slut*			10,10,slut*,False
+whore			10,10,whore,False
+dirt*			10,10,dirt*,False
+impiety			10,10,impiety,False
+impious			10,10,impious,False
+profan*			10,10,profan*,False
+gross			10,10,gross,False
+repuls*			10,10,repuls*,False
+sick*			10,10,sick*,False
+promiscu*		10,10,promiscu*,False
+lewd*			10,10,lewd*,False
+adulter*		10,10,adulter*,False
+debauche* 		10,10,debauche* ,False
+defile*			10,10,defile*,False
+tramp			10,10,tramp,False
+prostitut*		10,10,prostitut*,False
+unchaste		10,10,unchaste,False
+intemperate		10,10,intemperate,False
+wanton			10,10,wanton,False
+profligate		10,10,profligate,False
+filth* 			10,10,filth* ,False
+trashy			10,10,trashy,False
+obscen*			10,10,obscen*,False
+lax			10,10,lax,False
+taint*			10,10,taint*,False
+stain*			10,10,stain*,False
+tarnish*		10,10,tarnish*,False
+debase*			10,10,debase*,False
+desecrat*		10,10,desecrat*,False
+wicked*			10 11,10 11,wicked*,False
+blemish			10,10,blemish,False
+exploitat*		10,10,exploitat*,False
+pervert			10,10,pervert,False
+wretched*		10 11,10 11,wretched*,False
+righteous*		11,11,righteous*,True
+moral*          	11	,11,moral*          ,True
+ethic*          	11	,11,ethic*          ,True
+value*          	11	,11,value*          ,True
+upstanding      	11	,11,upstanding      ,True
+good            	11	,11,good            ,True
+goodness        	11	,11,goodness        ,True
+principle*      	11	,11,principle*      ,True
+blameless		11,11,blameless,True
+exemplary		11,11,exemplary,True
+lesson			11,11,lesson,True
+canon			11,11,canon,True
+doctrine		11,11,doctrine,True
+noble			11,11,noble,True
+worth*			11,11,worth*,True
+ideal*			11,11,ideal*,True
+praiseworthy		11,11,praiseworthy,True
+commendable		11,11,commendable,True
+character		11,11,character,True
+proper			11,11,proper,True
+laudable		11,11,laudable,True
+correct			11,11,correct,True
+wrong*			11,11,wrong*,False
+evil			11,11,evil,False
+immoral*		11,11,immoral*,False
+bad			11,11,bad,False
+offend*			11 ,11,offend*,False
+offensive*		11,11,offensive*,False
+transgress*		11,11,transgress*,False
